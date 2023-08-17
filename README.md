@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Java.**
+- 🔭 I'm currently looking for a **Job.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I'm currently learning **JavaScript.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **anilofficial0@gmail.com**
+- 📫 How to reach me **anilvish707@gmail.com**
 
 - ⚡ Fun fact **I Like to Chess.**
 
