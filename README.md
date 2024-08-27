@@ -45,7 +45,7 @@
 <br/>
 <br/>
 
-<a href="https://x.com/Anil_Vish01"><img alt="IamAnilVishwakarma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IamAnilVishwakarma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://x.com/Anil_Vish01"><img src="https://img.icons8.com/?size=100&id=8824&format=png&color=000000" /></a>
 
 <br/>
 <br/>
