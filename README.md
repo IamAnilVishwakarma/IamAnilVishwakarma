@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently looking for a **Job.**
+- 🔭 I'm currently Working as a **Backend Developer.**
 
-- 🌱 I'm currently learning **JavaScript.**
+- 🌱 I'm currently learning **Docker.**
 
-- 📫 How to reach me **anilvish707@gmail.com**
+- 📫 How to reach me **anilofficial0@gmail.com**
 
 - ⚡ Fun fact **I Like to Chess.**
 
